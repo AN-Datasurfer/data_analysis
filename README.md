@@ -1,1 +1,1 @@
-# data_analysis
+# Goal of this repoitory to play with Python functionality and leave a notes to what i have done 

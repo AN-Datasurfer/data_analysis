@@ -1,1 +1,1 @@
-# Goal of this repoitory to play with Python functionality and leave a notes to what i have done 
+# The goal of this repository is to experiment with Python's functionality while documenting my progress through notes and explanations. It serves as a space for hands-on learning, testing different concepts, and refining my skills. Additionally, this repository is meant to showcase my knowledge through practical projects, demonstrating my ability to apply Python in real-world scenarios.

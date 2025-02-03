@@ -1,11 +1,13 @@
 import numpy as np
-np.random.seed(123)
+np.random.seed()
 outcomes = []
-for x in range(10) :
-    coin = np.random.randint(0, 2)
+for x in range(100) :
+    coin = np.random.randint(0, 2) #.randint() random integer
     if coin == 0 :
-      outcomes.append("heads")
+      outcomes.append("heads") #.append() adds element to the list
     else :
       outcomes.append("tails")
 
 print(outcomes)
+
+

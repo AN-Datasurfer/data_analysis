@@ -3,7 +3,7 @@ import numpy as np
 import math as mt
 import matplotlib.pyplot as plt
 
-car_data = pd.read_csv(r'car_price_dataset.csv')
+car_data = pd.read_csv(r'Datasets\car_price_dataset.csv')
 car_data_audi = car_data[car_data['Brand'] == 'Audi']
 
 #variables

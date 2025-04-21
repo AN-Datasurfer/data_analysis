@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-data = pd.read_csv(r'Datasets\Global_Cybersecurity_Threats_2015-2024.csv')
+data = pd.read_csv(r'Datasets/Global_Cybersecurity_Threats_2015-2024.csv')
 
 # Financial loss analysis
 financial_loss_by_year = data.groupby('Year')[["Financial Loss (in Million $)"]].sum().sort_values(by='Financial Loss (in Million $)', ascending=False)
